@@ -1,0 +1,122 @@
+{
+  "8a3ed59c-abb2-44aa-abbc-53a9965a9452": {
+    "manufacturer": "Ducati",
+    "plate": "EPE-5110-LG",
+    "acquired": "2018-10-02T03:30:45+01:00",
+    "acquiredNew": true
+  },
+  "1955476f-038e-4119-bae5-fcd8673bc95a": {
+    "manufacturer": "Ducati",
+    "plate": "EPE-8021-LG",
+    "acquired": "2018-05-22T07:54:27+01:00",
+    "acquiredNew": true
+  },
+  "4284b872-b17c-4a6f-8d74-b97ccddb3ce6": {
+    "manufacturer": "Bajaj",
+    "plate": "EPE-7232-LG",
+    "acquired": "2018-06-08T12:05:58+01:00",
+    "acquiredNew": false
+  },
+  "4ecefe09-388d-40c9-b16a-acd7c38ea31e": {
+    "manufacturer": "Bajaj",
+    "plate": "EPE-5083-LG",
+    "acquired": "2018-11-01T10:47:03+01:00",
+    "acquiredNew": false
+  },
+  "12c6e342-93ac-4e93-a2dc-8d6eefd763b8": {
+    "manufacturer": "Suzuki",
+    "plate": "EPE-8124-LG",
+    "acquired": "2018-07-26T07:29:03+01:00",
+    "acquiredNew": false
+  },
+  "dc384ddf-aca8-4e5e-8770-c28bd1a1aa20": {
+    "manufacturer": "Suzuki",
+    "plate": "EPE-2225-LG",
+    "acquired": "2018-10-02T05:17:24+01:00",
+    "acquiredNew": false
+  },
+  "d91a73a4-d9ec-41d3-b5b0-0e79199d4b7d": {
+    "manufacturer": "Suzuki",
+    "plate": "EPE-2886-LG",
+    "acquired": "2018-06-14T11:37:45+01:00",
+    "acquiredNew": false
+  },
+  "f3f0448a-9ab4-4da7-aab2-d57c35cee8ec": {
+    "manufacturer": "Honda",
+    "plate": "EPE-6357-LG",
+    "acquired": "2018-03-10T02:17:30+01:00",
+    "acquiredNew": false
+  },
+  "c343adfd-b006-4c9a-a8a4-cde80deb0e86": {
+    "manufacturer": "Bajaj",
+    "plate": "EPE-3218-LG",
+    "acquired": "2018-04-30T05:56:45+01:00",
+    "acquiredNew": true
+  },
+  "6f05a4bd-c8f7-421a-b309-95744429ba93": {
+    "manufacturer": "Bajaj",
+    "plate": "EPE-3169-LG",
+    "acquired": "2018-02-22T09:29:25+01:00",
+    "acquiredNew": true
+  },
+  "7a4c337b-84c5-45ba-b660-162862b8bc23": {
+    "manufacturer": "BMW",
+    "plate": "EPE-4973-LG",
+    "acquired": "2017-06-26T03:35:48+01:00",
+    "acquiredNew": false
+  },
+  "898ac7fb-bf10-45a9-a51b-7c29717b6ca6": {
+    "manufacturer": "Kawasaki",
+    "plate": "EPE-5695-LG",
+    "acquired": "2018-07-07T07:52:27+01:00",
+    "acquiredNew": false
+  },
+  "dd109695-dd37-457d-90e0-76db4fa4f063": {
+    "manufacturer": "Triumph",
+    "plate": "EPE-4979-LG",
+    "acquired": "2017-09-22T12:36:25+01:00",
+    "acquiredNew": true
+  },
+  "b0aaafb4-cb0a-4bfe-a5a2-b87682f19267": {
+    "manufacturer": "Kawasaki",
+    "plate": "EPE-9639-LG",
+    "acquired": "2018-09-26T02:02:05+01:00",
+    "acquiredNew": true
+  },
+  "ced7d7ea-1a12-4fe2-97ed-64249198c535": {
+    "manufacturer": "BMW",
+    "plate": "EPE-2583-LG",
+    "acquired": "2018-06-27T10:08:39+01:00",
+    "acquiredNew": true
+  },
+  "6e143bbb-851d-4220-a269-5cbff7c9094b": {
+    "manufacturer": "BMW",
+    "plate": "EPE-2506-LG",
+    "acquired": "2018-11-11T11:54:12+01:00",
+    "acquiredNew": true
+  },
+  "8e5e8a40-f6fb-4343-93f2-4cf92508c636": {
+    "manufacturer": "KTM",
+    "plate": "EPE-8947-LG",
+    "acquired": "2017-07-04T05:15:27+01:00",
+    "acquiredNew": true
+  },
+  "a324bfab-2617-4d59-bcd0-f5c8c19639a4": {
+    "manufacturer": "KTM",
+    "plate": "EPE-8881-LG",
+    "acquired": "2018-12-19T03:26:02+01:00",
+    "acquiredNew": false
+  },
+  "394c9556-a4b7-42d6-bf38-b22823737656": {
+    "manufacturer": "Kawasaki",
+    "plate": "EPE-9203-LG",
+    "acquired": "2017-02-27T12:36:43+01:00",
+    "acquiredNew": false
+  },
+  "b8c4fff4-95cd-4d5c-b2d2-a4b00fd51e54": {
+    "manufacturer": "KTM",
+    "plate": "EPE-5271-LG",
+    "acquired": "2017-04-05T08:14:18+01:00",
+    "acquiredNew": true
+  }
+}

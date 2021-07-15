@@ -1,0 +1,16 @@
+{
+  "name": "decagon-tests",
+  "version": "1.0.0",
+  "main": "src/classifier.js",
+  "author": "Bond <bond@decagon.institute>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.15",
+    "jest": "24.8.0",
+    "mockdate": "2.0.3"
+  }
+}

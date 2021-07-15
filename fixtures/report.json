@@ -1,0 +1,549 @@
+[
+  {
+    "fullName": "Garcia Gaines",
+    "phone": "+234 808-064-1330",
+    "id": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "vehicles": [{ "plate": "EPE-5110-LG", "manufacturer": "Ducati" }],
+    "noOfTrips": 6,
+    "noOfCashTrips": 1,
+    "noOfNonCashTrips": 5,
+    "trips": [
+      {
+        "user": "Aurelia Rios",
+        "created": "2019-01-21T08:24:05+01:00",
+        "pickup": "311 Woodbine Street, Catharine, Kentucky, 8240",
+        "destination": "76 Cornelia Street, Tyro, Idaho, 8547",
+        "billed": 1715.16,
+        "isCash": true
+      },
+      {
+        "user": "Snyder Cruz",
+        "created": "2019-04-09T06:08:12+01:00",
+        "pickup": "420 Malbone Street, Singer, Kentucky, 2926",
+        "destination": "52 Hunterfly Place, Biehle, Idaho, 9430",
+        "billed": 1089.94,
+        "isCash": false
+      },
+      {
+        "user": "Crane Lynn",
+        "created": "2019-02-11T10:51:09+01:00",
+        "pickup": "586 Sumpter Street, Gratton, Florida, 6864",
+        "destination": "78 Highland Avenue, Morgandale, New Jersey, 1489",
+        "billed": 2109.83,
+        "isCash": false
+      },
+      {
+        "user": "Stacey Macdonald",
+        "created": "2019-03-20T07:03:22+01:00",
+        "pickup": "216 Olive Street, Haring, Iowa, 1344",
+        "destination": "99 Bond Street, Hamilton, Georgia, 4737",
+        "billed": 464.36,
+        "isCash": false
+      },
+      {
+        "user": "Velazquez Livingston",
+        "created": "2019-04-04T12:13:01+01:00",
+        "pickup": "337 Ash Street, Thomasville, Arizona, 6987",
+        "destination": "58 Herkimer Court, Bowie, Arkansas, 4810",
+        "billed": 3940.43,
+        "isCash": false
+      },
+      {
+        "user": "Weber Copeland",
+        "created": "2019-03-23T11:15:23+01:00",
+        "pickup": "934 Woodside Avenue, Boykin, North Carolina, 9777",
+        "destination": "74 Hicks Street, Marbury, Virgin Islands, 4030",
+        "billed": 2473.32,
+        "isCash": false
+      }
+    ],
+    "totalAmountEarned": 11793.04,
+    "totalCashAmount": 1715.16,
+    "totalNonCashAmount": 10077.87
+  },
+  {
+    "fullName": "Pruitt Pruitt",
+    "phone": "+234 809-944-8333",
+    "id": "7ac0eabd-19b9-408f-a5bc-a2094361548d",
+    "vehicles": [{ "plate": "EPE-5083-LG", "manufacturer": "Bajaj" }],
+    "noOfTrips": 5,
+    "noOfCashTrips": 2,
+    "noOfNonCashTrips": 3,
+    "trips": [
+      {
+        "user": "Mcmahon Hester",
+        "created": "2019-04-11T05:46:12+01:00",
+        "pickup": "930 Jackson Court, Tivoli, Missouri, 3260",
+        "destination": "90 Saratoga Avenue, Carlos, Connecticut, 6548",
+        "billed": 1212.17,
+        "isCash": false
+      },
+      {
+        "user": "Valdez Payne",
+        "created": "2019-04-29T04:18:57+01:00",
+        "pickup": "578 Allen Avenue, Austinburg, Massachusetts, 4237",
+        "destination": "71 Harkness Avenue, Norvelt, Alaska, 1432",
+        "billed": 1103.23,
+        "isCash": false
+      },
+      {
+        "user": "Melanie Beard",
+        "created": "2019-03-03T02:44:21+01:00",
+        "pickup": "701 Alabama Avenue, Finderne, Missouri, 5936",
+        "destination": "5 Balfour Place, Adelino, Connecticut, 7194",
+        "billed": 3210.17,
+        "isCash": true
+      },
+      {
+        "user": "Jeanie Dennis",
+        "created": "2019-01-26T06:14:43+01:00",
+        "pickup": "242 Cheever Place, Stewart, California, 9541",
+        "destination": "16 Cypress Court, Sidman, District Of Columbia, 7480",
+        "billed": 3729.41,
+        "isCash": false
+      },
+      {
+        "user": "Calderon Aguilar",
+        "created": "2019-04-07T12:25:56+01:00",
+        "pickup": "344 Aberdeen Street, Healy, Marshall Islands, 469",
+        "destination": "15 Sackman Street, Darrtown, South Carolina, 6677",
+        "billed": 2394.47,
+        "isCash": true
+      }
+    ],
+    "totalAmountEarned": 11649.45,
+    "totalCashAmount": 5604.64,
+    "totalNonCashAmount": 6044.81
+  },
+  {
+    "fullName": "Norman French",
+    "phone": "+234 808-364-2821",
+    "id": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "vehicles": [{ "plate": "EPE-3218-LG", "manufacturer": "Bajaj" }],
+    "noOfTrips": 6,
+    "noOfCashTrips": 2,
+    "noOfNonCashTrips": 4,
+    "trips": [
+      {
+        "user": "Sargent Clemons",
+        "created": "2019-04-20T03:13:58+01:00",
+        "pickup": "767 Furman Avenue, Dunnavant, Delaware, 5683",
+        "destination": "28 Georgia Avenue, Rose, Tennessee, 7467",
+        "billed": 3405.03,
+        "isCash": false
+      },
+      {
+        "user": "Graves Miles",
+        "created": "2019-02-05T02:03:28+01:00",
+        "pickup": "368 Clifford Place, Berlin, American Samoa, 5222",
+        "destination": "7 Barlow Drive, Enlow, North Dakota, 2919",
+        "billed": 136.01,
+        "isCash": false
+      },
+      {
+        "user": "Candace Guerra",
+        "created": "2019-02-19T08:08:27+01:00",
+        "pickup": "873 Fayette Street, Thornport, Alabama, 7463",
+        "destination": "19 Mill Road, Echo, Oregon, 266",
+        "billed": 4776.88,
+        "isCash": true
+      },
+      {
+        "user": "Leola Harvey",
+        "created": "2019-04-12T03:24:39+01:00",
+        "pickup": "608 Milford Street, Hendersonville, Michigan, 128",
+        "destination": "44 Broome Street, Yorklyn, Utah, 4673",
+        "billed": 2668.26,
+        "isCash": true
+      },
+      {
+        "user": "Constance Howell",
+        "created": "2019-03-13T11:35:50+01:00",
+        "pickup": "551 Dare Court, Lorraine, American Samoa, 3309",
+        "destination": "78 Kaufman Place, Websterville, North Dakota, 4740",
+        "billed": 3083.54,
+        "isCash": false
+      },
+      {
+        "user": "Hoover Harmon",
+        "created": "2019-05-07T11:04:11+01:00",
+        "pickup": "140 Wakeman Place, Williamson, Wyoming, 6770",
+        "destination": "7 Eldert Street, Nettie, South Dakota, 2578",
+        "billed": 2065.19,
+        "isCash": false
+      }
+    ],
+    "totalAmountEarned": 16134.91,
+    "totalCashAmount": 7445.14,
+    "totalNonCashAmount": 8689.77
+  },
+  {
+    "fullName": "Bush Gibbs",
+    "phone": "+234 808-204-2520",
+    "id": "f28f085a-0746-475e-b266-6608c96e1472",
+    "vehicles": [{ "plate": "EPE-7232-LG", "manufacturer": "Bajaj" }],
+    "noOfTrips": 7,
+    "noOfCashTrips": 4,
+    "noOfNonCashTrips": 3,
+    "trips": [
+      {
+        "user": "Walton Deleon",
+        "created": "2019-04-18T08:20:48+01:00",
+        "pickup": "685 Rewe Street, Sims, Florida, 2202",
+        "destination": "51 Remsen Avenue, Leeper, New Jersey, 6794",
+        "billed": 3372.07,
+        "isCash": true
+      },
+      {
+        "user": "Kirby Kerr",
+        "created": "2019-02-08T10:50:50+01:00",
+        "pickup": "947 Apollo Street, Kiskimere, Kansas, 7035",
+        "destination": "67 Adelphi Street, Dupuyer, Hawaii, 9898",
+        "billed": 1538.94,
+        "isCash": true
+      },
+      {
+        "user": "Stone Wolfe",
+        "created": "2019-03-12T05:19:54+01:00",
+        "pickup": "845 Bushwick Avenue, Beechmont, North Carolina, 2472",
+        "destination": "60 Woods Place, Saticoy, Virgin Islands, 5443",
+        "billed": 4526.88,
+        "isCash": false
+      },
+      {
+        "user": "West Roach",
+        "created": "2019-02-23T02:47:21+01:00",
+        "pickup": "230 Brighton Avenue, Marion, Virginia, 7592",
+        "destination": "31 Emmons Avenue, Glendale, Minnesota, 658",
+        "billed": 3091.17,
+        "isCash": false
+      },
+      {
+        "user": "Cummings Pena",
+        "created": "2019-03-09T11:00:47+01:00",
+        "pickup": "418 Ocean Parkway, Mammoth, Colorado, 6906",
+        "destination": "61 Grafton Street, Woodlands, Palau, 4323",
+        "billed": 830.78,
+        "isCash": true
+      },
+      {
+        "user": "Sanford Valentine",
+        "created": "2019-04-20T12:37:15+01:00",
+        "pickup": "308 Ridgecrest Terrace, Movico, Guam, 2926",
+        "destination": "22 Eastern Parkway, Deputy, Nevada, 8262",
+        "billed": 1774.59,
+        "isCash": true
+      },
+      {
+        "user": "Dickerson Fletcher",
+        "created": "2019-03-15T05:30:23+01:00",
+        "pickup": "505 Crystal Street, Wakarusa, Illinois, 8401",
+        "destination": "27 Linden Street, Dubois, Maryland, 843",
+        "billed": 2522.03,
+        "isCash": false
+      }
+    ],
+    "totalAmountEarned": 17656.46,
+    "totalCashAmount": 7516.38,
+    "totalNonCashAmount": 10140.08
+  },
+  {
+    "fullName": "Hughes Strickland",
+    "phone": "+234 808-084-4833",
+    "id": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "vehicles": [
+      { "plate": "EPE-2886-LG", "manufacturer": "Suzuki" },
+      { "plate": "EPE-9203-LG", "manufacturer": "Kawasaki" }
+    ],
+    "noOfTrips": 7,
+    "noOfCashTrips": 4,
+    "noOfNonCashTrips": 3,
+    "trips": [
+      {
+        "user": "Villarreal Good",
+        "created": "2019-05-30T08:53:48+01:00",
+        "pickup": "336 Elton Street, Valle, Oklahoma, 6228",
+        "destination": "82 Royce Street, Springhill, Northern Mariana Islands, 6836",
+        "billed": 2198.41,
+        "isCash": false
+      },
+      {
+        "user": "Mae Wiggins",
+        "created": "2019-05-03T04:11:42+01:00",
+        "pickup": "516 India Street, Cascades, Iowa, 6084",
+        "destination": "57 Ditmars Street, Cowiche, Georgia, 6481",
+        "billed": 3654.78,
+        "isCash": true
+      },
+      {
+        "user": "Lakisha Hubbard",
+        "created": "2019-05-01T03:37:13+01:00",
+        "pickup": "551 Butler Street, Hebron, Arizona, 3833",
+        "destination": "52 Cumberland Walk, Brewster, Arkansas, 3704",
+        "billed": 2366.38,
+        "isCash": false
+      },
+      {
+        "user": "Luisa Bryan",
+        "created": "2019-03-15T01:44:19+01:00",
+        "pickup": "638 College Place, Yogaville, Marshall Islands, 3061",
+        "destination": "56 Nixon Court, Sultana, South Carolina, 5257",
+        "billed": 4023.04,
+        "isCash": false
+      },
+      {
+        "user": "Candice Bowen",
+        "created": "2019-02-12T02:22:22+01:00",
+        "pickup": "432 Bayview Place, Orviston, New Hampshire, 7827",
+        "destination": "24 Williams Place, Springdale, Federated States Of Micronesia, 265",
+        "billed": 4268.98,
+        "isCash": true
+      },
+      {
+        "user": "Therese Sutton",
+        "created": "2019-01-08T09:04:56+01:00",
+        "pickup": "356 Hausman Street, Rutherford, Delaware, 4118",
+        "destination": "16 Coleman Street, Sheatown, Tennessee, 5792",
+        "billed": 3637.47,
+        "isCash": true
+      },
+      {
+        "user": "Mai Castro",
+        "created": "2019-01-25T04:03:27+01:00",
+        "pickup": "424 Narrows Avenue, Hasty, Massachusetts, 7459",
+        "destination": "51 Croton Loop, Chesapeake, Alaska, 9485",
+        "billed": 4359.71,
+        "isCash": true
+      }
+    ],
+    "totalAmountEarned": 24508.77,
+    "totalCashAmount": 15920.93,
+    "totalNonCashAmount": 8587.83
+  },
+  {
+    "fullName": "Marissa Vargas",
+    "phone": "+234 808-474-7228",
+    "id": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "vehicles": [
+      { "plate": "EPE-3169-LG", "manufacturer": "Bajaj" },
+      { "plate": "EPE-5695-LG", "manufacturer": "Kawasaki" }
+    ],
+    "noOfTrips": 6,
+    "noOfCashTrips": 5,
+    "noOfNonCashTrips": 1,
+    "trips": [
+      {
+        "user": "Fowler Webb",
+        "created": "2019-03-03T10:54:54+01:00",
+        "pickup": "424 Colonial Road, Loma, California, 8688",
+        "destination": "33 Falmouth Street, Leroy, District Of Columbia, 8654",
+        "billed": 4182.03,
+        "isCash": true
+      },
+      {
+        "user": "Mcgowan Horn",
+        "created": "2019-01-10T08:02:15+01:00",
+        "pickup": "895 Cedar Street, Nicut, Nebraska, 1152",
+        "destination": "68 Strickland Avenue, Cassel, New York, 9235",
+        "billed": 643.24,
+        "isCash": false
+      },
+      {
+        "user": "Booth Lang",
+        "created": "2019-03-27T02:30:20+01:00",
+        "pickup": "129 Harden Street, Frank, Illinois, 6247",
+        "destination": "15 Macon Street, Russellville, Maryland, 5964",
+        "billed": 3155.73,
+        "isCash": true
+      },
+      {
+        "user": "Phelps Lloyd",
+        "created": "2019-06-06T05:59:27+01:00",
+        "pickup": "555 Fairview Place, Roberts, Wyoming, 8937",
+        "destination": "58 Tompkins Avenue, Goodville, South Dakota, 9652",
+        "billed": 4911.96,
+        "isCash": true
+      },
+      {
+        "user": "Shirley Strong",
+        "created": "2019-05-06T12:05:48+01:00",
+        "pickup": "989 Albany Avenue, Juntura, Oklahoma, 9572",
+        "destination": "70 Ashland Place, Fingerville, Northern Mariana Islands, 1969",
+        "billed": 2471.63,
+        "isCash": true
+      },
+      {
+        "user": "Tran Mooney",
+        "created": "2019-02-05T11:04:41+01:00",
+        "pickup": "119 Corbin Place, Bergoo, Virginia, 5516",
+        "destination": "14 Nevins Street, Canterwood, Minnesota, 2210",
+        "billed": 1093.83,
+        "isCash": true
+      }
+    ],
+    "totalAmountEarned": 16458.41,
+    "totalCashAmount": 15815.18,
+    "totalNonCashAmount": 643.24
+  },
+  {
+    "fullName": "Alta Berry",
+    "phone": "+234 808-305-6124",
+    "id": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "vehicles": [{ "plate": "EPE-8124-LG", "manufacturer": "Suzuki" }],
+    "noOfTrips": 6,
+    "noOfCashTrips": 4,
+    "noOfNonCashTrips": 2,
+    "trips": [
+      {
+        "user": "Amber Bradley",
+        "created": "2019-04-16T01:03:24+01:00",
+        "pickup": "850 Varick Street, Umapine, Louisiana, 6545",
+        "destination": "86 Woodrow Court, Chestnut, Puerto Rico, 1591",
+        "billed": 2633.7,
+        "isCash": true
+      },
+      {
+        "user": "Kay Winters",
+        "created": "2019-01-18T11:33:33+01:00",
+        "pickup": "572 Autumn Avenue, Harmon, Texas, 5698",
+        "destination": "83 Eaton Court, Wheaton, Maine, 6024",
+        "billed": 400.01,
+        "isCash": true
+      },
+      {
+        "user": "Ward Huber",
+        "created": "2019-05-08T12:48:27+01:00",
+        "pickup": "840 Thornton Street, Fairmount, Rhode Island, 8006",
+        "destination": "93 Bevy Court, Neibert, West Virginia, 2214",
+        "billed": 4486,
+        "isCash": true
+      },
+      {
+        "user": "Livingston Merrill",
+        "created": "2019-04-13T08:45:01+01:00",
+        "pickup": "986 Tompkins Place, Leola, Washington, 1982",
+        "destination": "12 Howard Place, Madrid, Pennsylvania, 2518",
+        "billed": 228.94,
+        "isCash": true
+      },
+      {
+        "user": "Maria Wilcox",
+        "created": "2019-05-26T04:35:38+01:00",
+        "pickup": "719 Plaza Street, Trexlertown, Louisiana, 4328",
+        "destination": "65 Horace Court, Centerville, Puerto Rico, 3055",
+        "billed": 2518.97,
+        "isCash": false
+      },
+      {
+        "user": "Kitty Miranda",
+        "created": "2019-06-06T03:23:52+01:00",
+        "pickup": "900 Oriental Boulevard, Glasgow, Ohio, 1142",
+        "destination": "11 Knight Court, Ezel, New Mexico, 2831",
+        "billed": 1864.47,
+        "isCash": false
+      }
+    ],
+    "totalAmountEarned": 12132.08,
+    "totalCashAmount": 7748.65,
+    "totalNonCashAmount": 4383.43
+  },
+  {
+    "fullName": "Gilbert Stanton",
+    "phone": "+234 808-094-0521",
+    "id": "308d2531-94b0-460b-be24-7134d8bcf82c",
+    "vehicles": [{ "plate": "EPE-2225-LG", "manufacturer": "Suzuki" }],
+    "noOfTrips": 5,
+    "noOfCashTrips": 4,
+    "noOfNonCashTrips": 1,
+    "trips": [
+      {
+        "user": "Harrington Mcknight",
+        "created": "2019-05-10T08:24:41+01:00",
+        "pickup": "700 Harbor Lane, Zarephath, Ohio, 737",
+        "destination": "95 Clifton Place, Ogema, New Mexico, 2780",
+        "billed": 478.08,
+        "isCash": true
+      },
+      {
+        "user": "Burt Ratliff",
+        "created": "2019-02-24T06:54:03+01:00",
+        "pickup": "110 Folsom Place, Jennings, Montana, 938",
+        "destination": "69 Mayfair Drive, Shrewsbury, Indiana, 5927",
+        "billed": 4288.02,
+        "isCash": false
+      },
+      {
+        "user": "Cherry Hamilton",
+        "created": "2019-02-16T02:18:24+01:00",
+        "pickup": "142 Tech Place, Ruffin, Vermont, 5422",
+        "destination": "30 Manhattan Avenue, Curtice, Mississippi, 5318",
+        "billed": 60.3,
+        "isCash": true
+      },
+      {
+        "user": "Gomez Thomas",
+        "created": "2019-02-11T06:33:52+01:00",
+        "pickup": "662 Rockwell Place, Roosevelt, Kansas, 5930",
+        "destination": "70 Ruby Street, Turpin, Hawaii, 4294",
+        "billed": 3387.3,
+        "isCash": true
+      },
+      {
+        "user": "Josie Atkinson",
+        "created": "2019-04-06T09:17:01+01:00",
+        "pickup": "779 Franklin Street, Springville, Nebraska, 9789",
+        "destination": "11 Amboy Street, Winchester, New York, 2766",
+        "billed": 3352.03,
+        "isCash": true
+      }
+    ],
+    "totalAmountEarned": 11565.73,
+    "totalCashAmount": 7277.71,
+    "totalNonCashAmount": 4288.02
+  },
+  {
+    "fullName": "Kate Carpenter",
+    "phone": "+234 809-435-9539",
+    "id": "3539a692-69b6-4b24-89fc-f8b505a1eecd",
+    "vehicles": [
+      { "plate": "EPE-6357-LG", "manufacturer": "Honda" },
+      { "plate": "EPE-4979-LG", "manufacturer": "Triumph" }
+    ],
+    "noOfTrips": 1,
+    "noOfCashTrips": 0,
+    "noOfNonCashTrips": 1,
+    "trips": [
+      {
+        "user": "Vance Brady",
+        "created": "2019-04-19T05:12:54+01:00",
+        "pickup": "278 Dorset Street, Groton, Texas, 2769",
+        "destination": "26 Randolph Street, Lutsen, Maine, 2486",
+        "billed": 4516.75,
+        "isCash": false
+      }
+    ],
+    "totalAmountEarned": 4516.75,
+    "totalCashAmount": 0,
+    "totalNonCashAmount": 4516.75
+  },
+  {
+    "id": "7ba0dc7ba0dce0-1de3-4971-82e0-a10acce52dd2",
+    "vehicles": [],
+    "noOfTrips": 1,
+    "noOfCashTrips": 0,
+    "noOfNonCashTrips": 1,
+    "trips": [
+      {
+        "user": "Jordan Middleton",
+        "created": "2019-05-12T05:49:57+01:00",
+        "pickup": "394 Gatling Place, Aberdeen, Colorado, 8048",
+        "destination": "90 Bragg Court, Williams, Palau, 7475",
+        "billed": 1809.07,
+        "isCash": false
+      }
+    ],
+    "totalAmountEarned": 1809.07,
+    "totalCashAmount": 0,
+    "totalNonCashAmount": 1809.07
+  }
+]

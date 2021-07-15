@@ -1,0 +1,1202 @@
+[
+  {
+    "tripID": "8aa40609-6b7d-4db1-a0de-2d508337b8b4",
+    "driverID": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "isCash": true,
+    "billedAmount": "1,715.16",
+    "user": {
+      "name": "Aurelia Rios",
+      "gender": "female",
+      "company": "EXERTA",
+      "email": "aureliarios@exerta.com",
+      "phone": "+234 808-375-2326"
+    },
+    "created": "2019-01-21T08:24:05+01:00",
+    "pickup": {
+      "address": "311 Woodbine Street, Catharine, Kentucky, 8240",
+      "latitude": -7.99591,
+      "longitude": 177.770392
+    },
+    "destination": {
+      "address": "76 Cornelia Street, Tyro, Idaho, 8547",
+      "latitude": 8.056252,
+      "longitude": -103.758085
+    }
+  },
+  {
+    "tripID": "5e6c6f5b-bc4c-40d8-a52a-308b12bbb426",
+    "driverID": "7ac0eabd-19b9-408f-a5bc-a2094361548d",
+    "isCash": false,
+    "billedAmount": "1,212.17",
+    "user": {
+      "name": "Mcmahon Hester",
+      "gender": "male",
+      "company": "GEEKULAR",
+      "email": "mcmahonhester@geekular.com",
+      "phone": "+234 808-144-4628"
+    },
+    "created": "2019-04-11T05:46:12+01:00",
+    "pickup": {
+      "address": "930 Jackson Court, Tivoli, Missouri, 3260",
+      "latitude": 77.508338,
+      "longitude": -115.385046
+    },
+    "destination": {
+      "address": "90 Saratoga Avenue, Carlos, Connecticut, 6548",
+      "latitude": -50.42713,
+      "longitude": -106.015292
+    }
+  },
+  {
+    "tripID": "b4075407-b1ac-42f6-a915-fe3e96e67e06",
+    "driverID": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "isCash": false,
+    "billedAmount": "3,405.03",
+    "user": {
+      "name": "Sargent Clemons",
+      "gender": "male",
+      "company": "VIAGRAND",
+      "email": "sargentclemons@viagrand.com",
+      "phone": "+234 809-484-1334"
+    },
+    "created": "2019-04-20T03:13:58+01:00",
+    "pickup": {
+      "address": "767 Furman Avenue, Dunnavant, Delaware, 5683",
+      "latitude": 0.627179,
+      "longitude": 41.869778
+    },
+    "destination": {
+      "address": "28 Georgia Avenue, Rose, Tennessee, 7467",
+      "latitude": -85.156963,
+      "longitude": 179.578198
+    }
+  },
+  {
+    "tripID": "c2812789-d50b-4324-ab8e-0ad7348b4694",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": true,
+    "billedAmount": "3,372.07",
+    "user": {
+      "name": "Walton Deleon",
+      "gender": "male",
+      "company": "KOG",
+      "email": "waltondeleon@kog.com",
+      "phone": "+234 809-134-9823"
+    },
+    "created": "2019-04-18T08:20:48+01:00",
+    "pickup": {
+      "address": "685 Rewe Street, Sims, Florida, 2202",
+      "latitude": -86.641563,
+      "longitude": -79.047428
+    },
+    "destination": {
+      "address": "51 Remsen Avenue, Leeper, New Jersey, 6794",
+      "latitude": 30.904381,
+      "longitude": 123.08562
+    }
+  },
+  {
+    "tripID": "0cc47ff4-e3bc-4f4a-90d1-76165ed4de90",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": false,
+    "billedAmount": "2,198.41",
+    "user": {
+      "name": "Villarreal Good",
+      "gender": "male",
+      "company": "LUNCHPOD",
+      "email": "villarrealgood@lunchpod.com",
+      "phone": "+234 808-764-2624"
+    },
+    "created": "2019-05-30T08:53:48+01:00",
+    "pickup": {
+      "address": "336 Elton Street, Valle, Oklahoma, 6228",
+      "latitude": 60.430342,
+      "longitude": -143.181884
+    },
+    "destination": {
+      "address": "82 Royce Street, Springhill, Northern Mariana Islands, 6836",
+      "latitude": -19.503091,
+      "longitude": -68.9485
+    }
+  },
+  {
+    "tripID": "0752c33e-92be-4d5c-99f2-dbf9e4d6ec1c",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": true,
+    "billedAmount": "1,538.94",
+    "user": {
+      "name": "Kirby Kerr",
+      "gender": "male",
+      "company": "HINWAY",
+      "email": "kirbykerr@hinway.com",
+      "phone": "+234 809-105-0729"
+    },
+    "created": "2019-02-08T10:50:50+01:00",
+    "pickup": {
+      "address": "947 Apollo Street, Kiskimere, Kansas, 7035",
+      "latitude": -61.165108,
+      "longitude": -26.414869
+    },
+    "destination": {
+      "address": "67 Adelphi Street, Dupuyer, Hawaii, 9898",
+      "latitude": 51.148581,
+      "longitude": 131.957298
+    }
+  },
+  {
+    "tripID": "61a18363-d46d-4d24-83b7-30278af2ef40",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": true,
+    "billedAmount": "3,654.78",
+    "user": {
+      "name": "Mae Wiggins",
+      "gender": "female",
+      "company": "RETROTEX",
+      "email": "maewiggins@retrotex.com",
+      "phone": "+234 809-444-2633"
+    },
+    "created": "2019-05-03T04:11:42+01:00",
+    "pickup": {
+      "address": "516 India Street, Cascades, Iowa, 6084",
+      "latitude": -19.566103,
+      "longitude": -100.874931
+    },
+    "destination": {
+      "address": "57 Ditmars Street, Cowiche, Georgia, 6481",
+      "latitude": -23.803031,
+      "longitude": 147.946447
+    }
+  },
+  {
+    "tripID": "069ebc91-07ae-4558-a8a3-9d9f9d26e01c",
+    "driverID": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "isCash": false,
+    "billedAmount": 136.01,
+    "user": {
+      "name": "Graves Miles",
+      "gender": "male",
+      "company": "KYAGORO",
+      "email": "gravesmiles@kyagoro.com",
+      "phone": "+234 809-915-1529"
+    },
+    "created": "2019-02-05T02:03:28+01:00",
+    "pickup": {
+      "address": "368 Clifford Place, Berlin, American Samoa, 5222",
+      "latitude": -53.669716,
+      "longitude": 72.479168
+    },
+    "destination": {
+      "address": "7 Barlow Drive, Enlow, North Dakota, 2919",
+      "latitude": -80.960285,
+      "longitude": 112.904459
+    }
+  },
+  {
+    "tripID": "bcdaa972-7acb-44e2-881f-369cdfb6ea1f",
+    "driverID": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "isCash": true,
+    "billedAmount": "4,182.03",
+    "user": {
+      "name": "Fowler Webb",
+      "gender": "male",
+      "company": "COMCUBINE",
+      "email": "fowlerwebb@comcubine.com",
+      "phone": "+234 808-724-4431"
+    },
+    "created": "2019-03-03T10:54:54+01:00",
+    "pickup": {
+      "address": "424 Colonial Road, Loma, California, 8688",
+      "latitude": 43.27601,
+      "longitude": -30.12391
+    },
+    "destination": {
+      "address": "33 Falmouth Street, Leroy, District Of Columbia, 8654",
+      "latitude": -23.136825,
+      "longitude": 168.30958
+    }
+  },
+  {
+    "tripID": "151bf896-31fb-4773-be25-373e3fad1cbb",
+    "driverID": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "isCash": true,
+    "billedAmount": "2,633.70",
+    "user": {
+      "name": "Amber Bradley",
+      "gender": "female",
+      "company": "GEEKOL",
+      "email": "amberbradley@geekol.com",
+      "phone": "+234 809-794-4725"
+    },
+    "created": "2019-04-16T01:03:24+01:00",
+    "pickup": {
+      "address": "850 Varick Street, Umapine, Louisiana, 6545",
+      "latitude": -39.517175,
+      "longitude": 83.031422
+    },
+    "destination": {
+      "address": "86 Woodrow Court, Chestnut, Puerto Rico, 1591",
+      "latitude": 88.226997,
+      "longitude": 123.261497
+    }
+  },
+  {
+    "tripID": "43aae26c-42f1-4d5d-b124-b911ce4dd9d5",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": false,
+    "billedAmount": "2,366.38",
+    "user": {
+      "name": "Lakisha Hubbard",
+      "gender": "female",
+      "company": "ZENTIX",
+      "email": "lakishahubbard@zentix.com",
+      "phone": "+234 808-324-4634"
+    },
+    "created": "2019-05-01T03:37:13+01:00",
+    "pickup": {
+      "address": "551 Butler Street, Hebron, Arizona, 3833",
+      "latitude": 77.334997,
+      "longitude": 153.80522
+    },
+    "destination": {
+      "address": "52 Cumberland Walk, Brewster, Arkansas, 3704",
+      "latitude": 66.182242,
+      "longitude": 116.370419
+    }
+  },
+  {
+    "tripID": "308ff7c5-fc13-444a-8760-1cd492e51937",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": false,
+    "billedAmount": "4,526.88",
+    "user": {
+      "name": "Stone Wolfe",
+      "gender": "male",
+      "company": "KEGULAR",
+      "email": "stonewolfe@kegular.com",
+      "phone": "+234 809-935-8721"
+    },
+    "created": "2019-03-12T05:19:54+01:00",
+    "pickup": {
+      "address": "845 Bushwick Avenue, Beechmont, North Carolina, 2472",
+      "latitude": -64.009636,
+      "longitude": 176.60419
+    },
+    "destination": {
+      "address": "60 Woods Place, Saticoy, Virgin Islands, 5443",
+      "latitude": -56.115824,
+      "longitude": -48.019056
+    }
+  },
+  {
+    "tripID": "0a4907ed-0253-4f4b-b342-3b0ad19aff1d",
+    "driverID": "308d2531-94b0-460b-be24-7134d8bcf82c",
+    "isCash": true,
+    "billedAmount": 478.08,
+    "user": {
+      "name": "Harrington Mcknight",
+      "gender": "male",
+      "company": "APPLIDEC",
+      "email": "harringtonmcknight@applidec.com",
+      "phone": "+234 809-325-2834"
+    },
+    "created": "2019-05-10T08:24:41+01:00",
+    "pickup": {
+      "address": "700 Harbor Lane, Zarephath, Ohio, 737",
+      "latitude": 74.341357,
+      "longitude": 82.44631
+    },
+    "destination": {
+      "address": "95 Clifton Place, Ogema, New Mexico, 2780",
+      "latitude": 22.77305,
+      "longitude": 132.077689
+    }
+  },
+  {
+    "tripID": "f00d886b-ba44-4681-a78a-e4b4a228475e",
+    "driverID": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "isCash": false,
+    "billedAmount": 643.24,
+    "user": {
+      "name": "Mcgowan Horn",
+      "gender": "male",
+      "company": "TALAE",
+      "email": "mcgowanhorn@talae.com",
+      "phone": "+234 808-635-0023"
+    },
+    "created": "2019-01-10T08:02:15+01:00",
+    "pickup": {
+      "address": "895 Cedar Street, Nicut, Nebraska, 1152",
+      "latitude": -14.185891,
+      "longitude": 97.703807
+    },
+    "destination": {
+      "address": "68 Strickland Avenue, Cassel, New York, 9235",
+      "latitude": -39.327536,
+      "longitude": -28.059221
+    }
+  },
+  {
+    "tripID": "6f4b19b3-41da-40fc-afee-16f86c5ed47d",
+    "driverID": "7ac0eabd-19b9-408f-a5bc-a2094361548d",
+    "isCash": false,
+    "billedAmount": "1,103.23",
+    "user": {
+      "name": "Valdez Payne",
+      "gender": "male",
+      "company": "TEMORAK",
+      "email": "valdezpayne@temorak.com",
+      "phone": "+234 809-055-1427"
+    },
+    "created": "2019-04-29T04:18:57+01:00",
+    "pickup": {
+      "address": "578 Allen Avenue, Austinburg, Massachusetts, 4237",
+      "latitude": -18.421465,
+      "longitude": -160.055996
+    },
+    "destination": {
+      "address": "71 Harkness Avenue, Norvelt, Alaska, 1432",
+      "latitude": -43.996837,
+      "longitude": 67.685902
+    }
+  },
+  {
+    "tripID": "d7b80e16-b2ee-4e4e-b305-f385bfee5f48",
+    "driverID": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "isCash": true,
+    "billedAmount": 400.01,
+    "user": {
+      "name": "Kay Winters",
+      "gender": "female",
+      "company": "EMERGENT",
+      "email": "kaywinters@emergent.com",
+      "phone": "+234 808-315-8527"
+    },
+    "created": "2019-01-18T11:33:33+01:00",
+    "pickup": {
+      "address": "572 Autumn Avenue, Harmon, Texas, 5698",
+      "latitude": 21.858191,
+      "longitude": 121.157006
+    },
+    "destination": {
+      "address": "83 Eaton Court, Wheaton, Maine, 6024",
+      "latitude": 6.816475,
+      "longitude": -163.980085
+    }
+  },
+  {
+    "tripID": "b78ae09d-bf0a-4d09-aaba-bb1b98b88c93",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": false,
+    "billedAmount": "3,091.17",
+    "user": {
+      "name": "West Roach",
+      "gender": "male",
+      "company": "PLUTORQUE",
+      "email": "westroach@plutorque.com",
+      "phone": "+234 808-504-8630"
+    },
+    "created": "2019-02-23T02:47:21+01:00",
+    "pickup": {
+      "address": "230 Brighton Avenue, Marion, Virginia, 7592",
+      "latitude": -20.392674,
+      "longitude": -99.770082
+    },
+    "destination": {
+      "address": "31 Emmons Avenue, Glendale, Minnesota, 658",
+      "latitude": 4.708666,
+      "longitude": 13.369546
+    }
+  },
+  {
+    "tripID": "0a56871d-6668-4881-aa44-e4a4be6e3401",
+    "driverID": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "isCash": true,
+    "billedAmount": "3,155.73",
+    "user": {
+      "name": "Booth Lang",
+      "gender": "male",
+      "company": "AQUAFIRE",
+      "email": "boothlang@aquafire.com",
+      "phone": "+234 809-114-3421"
+    },
+    "created": "2019-03-27T02:30:20+01:00",
+    "pickup": {
+      "address": "129 Harden Street, Frank, Illinois, 6247",
+      "latitude": -86.266311,
+      "longitude": 50.643335
+    },
+    "destination": {
+      "address": "15 Macon Street, Russellville, Maryland, 5964",
+      "latitude": -27.518845,
+      "longitude": -38.776775
+    }
+  },
+  {
+    "tripID": "75e57fa7-aef3-44ef-8984-408f9984313a",
+    "driverID": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "isCash": true,
+    "billedAmount": "4,911.96",
+    "user": {
+      "name": "Phelps Lloyd",
+      "gender": "male",
+      "company": "SLUMBERIA",
+      "email": "phelpslloyd@slumberia.com",
+      "phone": "+234 808-025-0336"
+    },
+    "created": "2019-06-06T05:59:27+01:00",
+    "pickup": {
+      "address": "555 Fairview Place, Roberts, Wyoming, 8937",
+      "latitude": 37.945765,
+      "longitude": -31.594096
+    },
+    "destination": {
+      "address": "58 Tompkins Avenue, Goodville, South Dakota, 9652",
+      "latitude": 1.435966,
+      "longitude": -105.105376
+    }
+  },
+  {
+    "tripID": "535daafc-8dda-4f89-95fb-423ec1ae03c4",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": false,
+    "billedAmount": "4,023.04",
+    "user": {
+      "name": "Luisa Bryan",
+      "gender": "female",
+      "company": "FLOTONIC",
+      "email": "luisabryan@flotonic.com",
+      "phone": "+234 808-114-7434"
+    },
+    "created": "2019-03-15T01:44:19+01:00",
+    "pickup": {
+      "address": "638 College Place, Yogaville, Marshall Islands, 3061",
+      "latitude": 45.513462,
+      "longitude": -136.545573
+    },
+    "destination": {
+      "address": "56 Nixon Court, Sultana, South Carolina, 5257",
+      "latitude": -63.062615,
+      "longitude": 166.937142
+    }
+  },
+  {
+    "tripID": "1dc6964a-487d-4aee-b134-622fd8278d20",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": true,
+    "billedAmount": 830.78,
+    "user": {
+      "name": "Cummings Pena",
+      "gender": "male",
+      "company": "PETIGEMS",
+      "email": "cummingspena@petigems.com",
+      "phone": "+234 809-084-1835"
+    },
+    "created": "2019-03-09T11:00:47+01:00",
+    "pickup": {
+      "address": "418 Ocean Parkway, Mammoth, Colorado, 6906",
+      "latitude": -23.811544,
+      "longitude": -88.806453
+    },
+    "destination": {
+      "address": "61 Grafton Street, Woodlands, Palau, 4323",
+      "latitude": 30.868929,
+      "longitude": -125.622575
+    }
+  },
+  {
+    "tripID": "0a27d43b-4ef9-4b26-90d2-a47dfcfdc65a",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": true,
+    "billedAmount": "4,268.98",
+    "user": {
+      "name": "Candice Bowen",
+      "gender": "female",
+      "company": "XIIX",
+      "email": "candicebowen@xiix.com",
+      "phone": "+234 808-585-2733"
+    },
+    "created": "2019-02-12T02:22:22+01:00",
+    "pickup": {
+      "address": "432 Bayview Place, Orviston, New Hampshire, 7827",
+      "latitude": -5.415276,
+      "longitude": -42.560527
+    },
+    "destination": {
+      "address": "24 Williams Place, Springdale, Federated States Of Micronesia, 265",
+      "latitude": -21.236286,
+      "longitude": 122.380945
+    }
+  },
+  {
+    "tripID": "9060cea7-2de3-40c1-b59c-9f2b92043b87",
+    "driverID": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "isCash": true,
+    "billedAmount": "4,776.88",
+    "user": {
+      "name": "Candace Guerra",
+      "gender": "female",
+      "company": "LEXICONDO",
+      "email": "candaceguerra@lexicondo.com",
+      "phone": "+234 809-514-7026"
+    },
+    "created": "2019-02-19T08:08:27+01:00",
+    "pickup": {
+      "address": "873 Fayette Street, Thornport, Alabama, 7463",
+      "latitude": 13.011995,
+      "longitude": 57.464226
+    },
+    "destination": {
+      "address": "19 Mill Road, Echo, Oregon, 266",
+      "latitude": -57.356593,
+      "longitude": 107.630134
+    }
+  },
+  {
+    "tripID": "bcd1f15c-b5a0-424e-9c40-bf9fcce28472",
+    "driverID": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "isCash": true,
+    "billedAmount": "4,486.00",
+    "user": {
+      "name": "Ward Huber",
+      "gender": "male",
+      "company": "UTARIAN",
+      "email": "wardhuber@utarian.com",
+      "phone": "+234 809-665-7528"
+    },
+    "created": "2019-05-08T12:48:27+01:00",
+    "pickup": {
+      "address": "840 Thornton Street, Fairmount, Rhode Island, 8006",
+      "latitude": 33.335667,
+      "longitude": -79.675936
+    },
+    "destination": {
+      "address": "93 Bevy Court, Neibert, West Virginia, 2214",
+      "latitude": -58.551938,
+      "longitude": 150.213916
+    }
+  },
+  {
+    "tripID": "4a699b69-126c-44bc-93f8-980d21b72a9a",
+    "driverID": "308d2531-94b0-460b-be24-7134d8bcf82c",
+    "isCash": false,
+    "billedAmount": "4,288.02",
+    "user": {
+      "name": "Burt Ratliff",
+      "gender": "male",
+      "company": "COMSTAR",
+      "email": "burtratliff@comstar.com",
+      "phone": "+234 809-524-8539"
+    },
+    "created": "2019-02-24T06:54:03+01:00",
+    "pickup": {
+      "address": "110 Folsom Place, Jennings, Montana, 938",
+      "latitude": 76.842949,
+      "longitude": 175.367561
+    },
+    "destination": {
+      "address": "69 Mayfair Drive, Shrewsbury, Indiana, 5927",
+      "latitude": -28.17973,
+      "longitude": 147.556479
+    }
+  },
+  {
+    "tripID": "9d1ca1d0-96ac-43ef-bc75-ba2438cb2502",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": true,
+    "billedAmount": "1,774.59",
+    "user": {
+      "name": "Sanford Valentine",
+      "gender": "male",
+      "company": "TERRAGEN",
+      "email": "sanfordvalentine@terragen.com",
+      "phone": "+234 808-175-8237"
+    },
+    "created": "2019-04-20T12:37:15+01:00",
+    "pickup": {
+      "address": "308 Ridgecrest Terrace, Movico, Guam, 2926",
+      "latitude": -7.366376,
+      "longitude": -132.658621
+    },
+    "destination": {
+      "address": "22 Eastern Parkway, Deputy, Nevada, 8262",
+      "latitude": 46.110137,
+      "longitude": -100.845131
+    }
+  },
+  {
+    "tripID": "e3d642e2-603c-4597-8ca6-098bb41e2707",
+    "driverID": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "isCash": true,
+    "billedAmount": "2,668.26",
+    "user": {
+      "name": "Leola Harvey",
+      "gender": "female",
+      "company": "JOVIOLD",
+      "email": "leolaharvey@joviold.com",
+      "phone": "+234 809-665-5729"
+    },
+    "created": "2019-04-12T03:24:39+01:00",
+    "pickup": {
+      "address": "608 Milford Street, Hendersonville, Michigan, 128",
+      "latitude": -72.301874,
+      "longitude": 174.129906
+    },
+    "destination": {
+      "address": "44 Broome Street, Yorklyn, Utah, 4673",
+      "latitude": 71.950941,
+      "longitude": -29.400488
+    }
+  },
+  {
+    "tripID": "5448b278-9dc7-465b-ac36-bce369707b82",
+    "driverID": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "isCash": true,
+    "billedAmount": 228.94,
+    "user": {
+      "name": "Livingston Merrill",
+      "gender": "male",
+      "company": "EVEREST",
+      "email": "livingstonmerrill@everest.com",
+      "phone": "+234 808-945-9025"
+    },
+    "created": "2019-04-13T08:45:01+01:00",
+    "pickup": {
+      "address": "986 Tompkins Place, Leola, Washington, 1982",
+      "latitude": -7.327587,
+      "longitude": 12.228633
+    },
+    "destination": {
+      "address": "12 Howard Place, Madrid, Pennsylvania, 2518",
+      "latitude": 38.39547,
+      "longitude": 64.506876
+    }
+  },
+  {
+    "tripID": "a15e4c07-aa78-45a3-96ab-ac9478db378b",
+    "driverID": "308d2531-94b0-460b-be24-7134d8bcf82c",
+    "isCash": true,
+    "billedAmount": 60.3,
+    "user": {
+      "name": "Cherry Hamilton",
+      "gender": "male",
+      "company": "COMTRACT",
+      "email": "cherryhamilton@comtract.com",
+      "phone": "+234 809-425-4021"
+    },
+    "created": "2019-02-16T02:18:24+01:00",
+    "pickup": {
+      "address": "142 Tech Place, Ruffin, Vermont, 5422",
+      "latitude": -50.632968,
+      "longitude": 123.98618
+    },
+    "destination": {
+      "address": "30 Manhattan Avenue, Curtice, Mississippi, 5318",
+      "latitude": 39.733846,
+      "longitude": -165.353758
+    }
+  },
+  {
+    "tripID": "f4db6cff-9f24-4c64-b7b7-d74656a9aa29",
+    "driverID": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "isCash": false,
+    "billedAmount": "1,089.94",
+    "user": {
+      "name": "Snyder Cruz",
+      "gender": "male",
+      "company": "PROSURE",
+      "email": "snydercruz@prosure.com",
+      "phone": "+234 809-404-1622"
+    },
+    "created": "2019-04-09T06:08:12+01:00",
+    "pickup": {
+      "address": "420 Malbone Street, Singer, Kentucky, 2926",
+      "latitude": 87.519857,
+      "longitude": 122.158158
+    },
+    "destination": {
+      "address": "52 Hunterfly Place, Biehle, Idaho, 9430",
+      "latitude": 14.618723,
+      "longitude": -78.81763
+    }
+  },
+  {
+    "tripID": "38b22cdf-802d-4123-a9e3-94b70324d8a7",
+    "driverID": "7ac0eabd-19b9-408f-a5bc-a2094361548d",
+    "isCash": true,
+    "billedAmount": "3,210.17",
+    "user": {
+      "name": "Melanie Beard",
+      "gender": "female",
+      "company": "ZIDANT",
+      "email": "melaniebeard@zidant.com",
+      "phone": "+234 809-814-8926"
+    },
+    "created": "2019-03-03T02:44:21+01:00",
+    "pickup": {
+      "address": "701 Alabama Avenue, Finderne, Missouri, 5936",
+      "latitude": 67.948613,
+      "longitude": -26.766854
+    },
+    "destination": {
+      "address": "5 Balfour Place, Adelino, Connecticut, 7194",
+      "latitude": 80.311804,
+      "longitude": -29.154832
+    }
+  },
+  {
+    "tripID": "a3126776-1e56-402c-80a5-3556c52f5688",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": true,
+    "billedAmount": "3,637.47",
+    "user": {
+      "name": "Therese Sutton",
+      "gender": "female",
+      "company": "GEEKY",
+      "email": "theresesutton@geeky.com",
+      "phone": "+234 809-115-5126"
+    },
+    "created": "2019-01-08T09:04:56+01:00",
+    "pickup": {
+      "address": "356 Hausman Street, Rutherford, Delaware, 4118",
+      "latitude": -27.93288,
+      "longitude": 123.504563
+    },
+    "destination": {
+      "address": "16 Coleman Street, Sheatown, Tennessee, 5792",
+      "latitude": 50.058249,
+      "longitude": -60.167142
+    }
+  },
+  {
+    "tripID": "1d895a7b-01d5-47e1-92e8-4138fca5e8a5",
+    "driverID": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "isCash": false,
+    "billedAmount": "2,109.83",
+    "user": {
+      "name": "Crane Lynn",
+      "gender": "male",
+      "company": "LOTRON",
+      "email": "cranelynn@lotron.com",
+      "phone": "+234 809-215-8938"
+    },
+    "created": "2019-02-11T10:51:09+01:00",
+    "pickup": {
+      "address": "586 Sumpter Street, Gratton, Florida, 6864",
+      "latitude": 15.070725,
+      "longitude": -20.873926
+    },
+    "destination": {
+      "address": "78 Highland Avenue, Morgandale, New Jersey, 1489",
+      "latitude": 7.325829,
+      "longitude": -132.564318
+    }
+  },
+  {
+    "tripID": "88509daa-2117-4d72-b0e8-d3dd9324da2c",
+    "driverID": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "isCash": true,
+    "billedAmount": "2,471.63",
+    "user": {
+      "name": "Shirley Strong",
+      "gender": "female",
+      "company": "EVIDENDS",
+      "email": "shirleystrong@evidends.com",
+      "phone": "+234 808-864-4124"
+    },
+    "created": "2019-05-06T12:05:48+01:00",
+    "pickup": {
+      "address": "989 Albany Avenue, Juntura, Oklahoma, 9572",
+      "latitude": -37.36057,
+      "longitude": -99.571988
+    },
+    "destination": {
+      "address": "70 Ashland Place, Fingerville, Northern Mariana Islands, 1969",
+      "latitude": 2.233464,
+      "longitude": 177.626967
+    }
+  },
+  {
+    "tripID": "97aa8cc3-26e8-4efb-8bee-dbd5fb2c844e",
+    "driverID": "308d2531-94b0-460b-be24-7134d8bcf82c",
+    "isCash": true,
+    "billedAmount": "3,387.30",
+    "user": {
+      "name": "Gomez Thomas",
+      "gender": "male",
+      "company": "ZINCA",
+      "email": "gomezthomas@zinca.com",
+      "phone": "+234 809-585-2922"
+    },
+    "created": "2019-02-11T06:33:52+01:00",
+    "pickup": {
+      "address": "662 Rockwell Place, Roosevelt, Kansas, 5930",
+      "latitude": 60.153084,
+      "longitude": 53.712583
+    },
+    "destination": {
+      "address": "70 Ruby Street, Turpin, Hawaii, 4294",
+      "latitude": 39.176998,
+      "longitude": -128.736163
+    }
+  },
+  {
+    "tripID": "8a25f50d-7a6f-446a-b739-c74a68d84892",
+    "driverID": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "isCash": false,
+    "billedAmount": 464.36,
+    "user": {
+      "name": "Stacey Macdonald",
+      "gender": "female",
+      "company": "LUDAK",
+      "email": "staceymacdonald@ludak.com",
+      "phone": "+234 808-384-7128"
+    },
+    "created": "2019-03-20T07:03:22+01:00",
+    "pickup": {
+      "address": "216 Olive Street, Haring, Iowa, 1344",
+      "latitude": 71.327382,
+      "longitude": 101.058426
+    },
+    "destination": {
+      "address": "99 Bond Street, Hamilton, Georgia, 4737",
+      "latitude": -33.672606,
+      "longitude": -19.410682
+    }
+  },
+  {
+    "tripID": "13729b07-4d7e-4607-a20c-a8191c4698b7",
+    "driverID": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "isCash": false,
+    "billedAmount": "3,083.54",
+    "user": {
+      "name": "Constance Howell",
+      "gender": "female",
+      "company": "DATAGENE",
+      "email": "constancehowell@datagene.com",
+      "phone": "+234 809-064-1139"
+    },
+    "created": "2019-03-13T11:35:50+01:00",
+    "pickup": {
+      "address": "551 Dare Court, Lorraine, American Samoa, 3309",
+      "latitude": 72.472284,
+      "longitude": 125.013532
+    },
+    "destination": {
+      "address": "78 Kaufman Place, Websterville, North Dakota, 4740",
+      "latitude": -37.271763,
+      "longitude": -134.846488
+    }
+  },
+  {
+    "tripID": "215309d4-4757-467e-a255-285939ae8734",
+    "driverID": "7ac0eabd-19b9-408f-a5bc-a2094361548d",
+    "isCash": false,
+    "billedAmount": "3,729.41",
+    "user": {
+      "name": "Jeanie Dennis",
+      "gender": "female",
+      "company": "EARTHWAX",
+      "email": "jeaniedennis@earthwax.com",
+      "phone": "+234 808-324-3328"
+    },
+    "created": "2019-01-26T06:14:43+01:00",
+    "pickup": {
+      "address": "242 Cheever Place, Stewart, California, 9541",
+      "latitude": -0.619641,
+      "longitude": -71.545468
+    },
+    "destination": {
+      "address": "16 Cypress Court, Sidman, District Of Columbia, 7480",
+      "latitude": -7.01016,
+      "longitude": 46.257737
+    }
+  },
+  {
+    "tripID": "7db307d0-4d90-4484-a882-c0af76db7ea3",
+    "driverID": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "isCash": false,
+    "billedAmount": "2,518.97",
+    "user": {
+      "name": "Maria Wilcox",
+      "gender": "female",
+      "company": "JASPER",
+      "email": "mariawilcox@jasper.com",
+      "phone": "+234 808-684-0435"
+    },
+    "created": "2019-05-26T04:35:38+01:00",
+    "pickup": {
+      "address": "719 Plaza Street, Trexlertown, Louisiana, 4328",
+      "latitude": 22.923241,
+      "longitude": 143.858679
+    },
+    "destination": {
+      "address": "65 Horace Court, Centerville, Puerto Rico, 3055",
+      "latitude": 42.013957,
+      "longitude": 50.782942
+    }
+  },
+  {
+    "tripID": "47142e90-a817-4896-a63a-ddf792336882",
+    "driverID": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "isCash": false,
+    "billedAmount": "3,940.43",
+    "user": {
+      "name": "Velazquez Livingston",
+      "gender": "male",
+      "company": "MANTRO",
+      "email": "velazquezlivingston@mantro.com",
+      "phone": "+234 808-384-3638"
+    },
+    "created": "2019-04-04T12:13:01+01:00",
+    "pickup": {
+      "address": "337 Ash Street, Thomasville, Arizona, 6987",
+      "latitude": -23.306151,
+      "longitude": -31.507995
+    },
+    "destination": {
+      "address": "58 Herkimer Court, Bowie, Arkansas, 4810",
+      "latitude": -69.514728,
+      "longitude": -58.31671
+    }
+  },
+  {
+    "tripID": "b7e6ce71-b311-4fd2-9a55-fe1d139771f6",
+    "driverID": "d247da84-ffcb-4ca8-8459-f98c99b59822",
+    "isCash": false,
+    "billedAmount": "2,473.32",
+    "user": {
+      "name": "Weber Copeland",
+      "gender": "male",
+      "company": "CANDECOR",
+      "email": "webercopeland@candecor.com",
+      "phone": "+234 809-224-5533"
+    },
+    "created": "2019-03-23T11:15:23+01:00",
+    "pickup": {
+      "address": "934 Woodside Avenue, Boykin, North Carolina, 9777",
+      "latitude": -12.698254,
+      "longitude": 125.250806
+    },
+    "destination": {
+      "address": "74 Hicks Street, Marbury, Virgin Islands, 4030",
+      "latitude": -57.241625,
+      "longitude": 76.858978
+    }
+  },
+  {
+    "tripID": "28da4a2f-97c0-42d8-8947-a16b9ba576aa",
+    "driverID": "ef1fc6d2-ef85-4a04-98bc-33e2f53ad5bf",
+    "isCash": false,
+    "billedAmount": "1,864.47",
+    "user": {
+      "name": "Kitty Miranda",
+      "gender": "female",
+      "company": "IMPERIUM",
+      "email": "kittymiranda@imperium.com",
+      "phone": "+234 808-544-7732"
+    },
+    "created": "2019-06-06T03:23:52+01:00",
+    "pickup": {
+      "address": "900 Oriental Boulevard, Glasgow, Ohio, 1142",
+      "latitude": -38.329611,
+      "longitude": -54.511842
+    },
+    "destination": {
+      "address": "11 Knight Court, Ezel, New Mexico, 2831",
+      "latitude": -39.573396,
+      "longitude": 135.144234
+    }
+  },
+  {
+    "tripID": "6ebf87a9-8f1c-4b47-a9f8-ef3af89a8f12",
+    "driverID": "308d2531-94b0-460b-be24-7134d8bcf82c",
+    "isCash": true,
+    "billedAmount": "3,352.03",
+    "user": {
+      "name": "Josie Atkinson",
+      "gender": "female",
+      "company": "SURETECH",
+      "email": "josieatkinson@suretech.com",
+      "phone": "+234 809-654-9625"
+    },
+    "created": "2019-04-06T09:17:01+01:00",
+    "pickup": {
+      "address": "779 Franklin Street, Springville, Nebraska, 9789",
+      "latitude": 50.265348,
+      "longitude": 43.751105
+    },
+    "destination": {
+      "address": "11 Amboy Street, Winchester, New York, 2766",
+      "latitude": -72.216885,
+      "longitude": 86.889095
+    }
+  },
+  {
+    "tripID": "12ae9b7a-22cc-4948-ac84-910ca1c07d86",
+    "driverID": "6abbc78e-87d8-4def-a722-bd19b70e9639",
+    "isCash": true,
+    "billedAmount": "4,359.71",
+    "user": {
+      "name": "Mai Castro",
+      "gender": "female",
+      "company": "QUILTIGEN",
+      "email": "maicastro@quiltigen.com",
+      "phone": "+234 808-894-3033"
+    },
+    "created": "2019-01-25T04:03:27+01:00",
+    "pickup": {
+      "address": "424 Narrows Avenue, Hasty, Massachusetts, 7459",
+      "latitude": 18.598962,
+      "longitude": -157.644318
+    },
+    "destination": {
+      "address": "51 Croton Loop, Chesapeake, Alaska, 9485",
+      "latitude": -15.841189,
+      "longitude": 124.26182
+    }
+  },
+  {
+    "tripID": "e1306481-a785-4d92-8073-b745436e322d",
+    "driverID": "3539a692-69b6-4b24-89fc-f8b505a1eecd",
+    "isCash": false,
+    "billedAmount": "4,516.75",
+    "user": {
+      "name": "Vance Brady",
+      "gender": "male",
+      "company": "SURELOGIC",
+      "email": "vancebrady@surelogic.com",
+      "phone": "+234 808-835-6221"
+    },
+    "created": "2019-04-19T05:12:54+01:00",
+    "pickup": {
+      "address": "278 Dorset Street, Groton, Texas, 2769",
+      "latitude": -10.924466,
+      "longitude": -10.672905
+    },
+    "destination": {
+      "address": "26 Randolph Street, Lutsen, Maine, 2486",
+      "latitude": 8.713315,
+      "longitude": -81.564649
+    }
+  },
+  {
+    "tripID": "4ad753df-e4cf-4b9d-8105-f0ccf2301e9b",
+    "driverID": "e785d454-f3c2-4168-85f8-32ca6143f074",
+    "isCash": true,
+    "billedAmount": "1,093.83",
+    "user": {
+      "name": "Tran Mooney",
+      "gender": "male",
+      "company": "ENDICIL",
+      "email": "tranmooney@endicil.com",
+      "phone": "+234 809-415-3620"
+    },
+    "created": "2019-02-05T11:04:41+01:00",
+    "pickup": {
+      "address": "119 Corbin Place, Bergoo, Virginia, 5516",
+      "latitude": 53.330003,
+      "longitude": 55.261697
+    },
+    "destination": {
+      "address": "14 Nevins Street, Canterwood, Minnesota, 2210",
+      "latitude": 53.507256,
+      "longitude": -95.039774
+    }
+  },
+  {
+    "tripID": "353e50e6-4dcc-4f2a-a80c-b8ae24ad17e6",
+    "driverID": "f28f085a-0746-475e-b266-6608c96e1472",
+    "isCash": false,
+    "billedAmount": "2,522.03",
+    "user": {
+      "name": "Dickerson Fletcher",
+      "gender": "male",
+      "company": "DANCERITY",
+      "email": "dickersonfletcher@dancerity.com",
+      "phone": "+234 809-724-3121"
+    },
+    "created": "2019-03-15T05:30:23+01:00",
+    "pickup": {
+      "address": "505 Crystal Street, Wakarusa, Illinois, 8401",
+      "latitude": -74.292927,
+      "longitude": 70.050435
+    },
+    "destination": {
+      "address": "27 Linden Street, Dubois, Maryland, 843",
+      "latitude": -59.033523,
+      "longitude": -97.224498
+    }
+  },
+  {
+    "tripID": "16861a22-e018-4355-b0c4-c52aeff15ffc",
+    "driverID": "9e14d22c-8f4f-4df8-83c1-91578fcde29a",
+    "isCash": false,
+    "billedAmount": "2,065.19",
+    "user": {
+      "name": "Hoover Harmon",
+      "gender": "male",
+      "company": "VICON",
+      "email": "hooverharmon@vicon.com",
+      "phone": "+234 808-224-2628"
+    },
+    "created": "2019-05-07T11:04:11+01:00",
+    "pickup": {
+      "address": "140 Wakeman Place, Williamson, Wyoming, 6770",
+      "latitude": -31.564688,
+      "longitude": 96.656995
+    },
+    "destination": {
+      "address": "7 Eldert Street, Nettie, South Dakota, 2578",
+      "latitude": -75.461243,
+      "longitude": 100.75534
+    }
+  },
+  {
+    "tripID": "8f9a6fd1-54d2-4b17-a5f3-1da6e761a2e5",
+    "driverID": "7ac0eabd-19b9-408f-a5bc-a2094361548d",
+    "isCash": true,
+    "billedAmount": "2,394.47",
+    "user": {
+      "name": "Calderon Aguilar",
+      "gender": "male",
+      "company": "LIMAGE",
+      "email": "calderonaguilar@limage.com",
+      "phone": "+234 808-104-0031"
+    },
+    "created": "2019-04-07T12:25:56+01:00",
+    "pickup": {
+      "address": "344 Aberdeen Street, Healy, Marshall Islands, 469",
+      "latitude": 28.217137,
+      "longitude": -88.804556
+    },
+    "destination": {
+      "address": "15 Sackman Street, Darrtown, South Carolina, 6677",
+      "latitude": -27.659029,
+      "longitude": 56.163626
+    }
+  },
+  {
+    "tripID": "2347af2e-0397-4668-8ba2-c34e0887863a",
+    "driverID": "7ba0dc7ba0dce0-1de3-4971-82e0-a10acce52dd2",
+    "isCash": false,
+    "billedAmount": "1,809.07",
+    "user": {
+      "name": "Jordan Middleton",
+      "gender": "female",
+      "company": "ZILLANET",
+      "email": "jordanmiddleton@zillanet.com",
+      "phone": "+234 809-335-8138"
+    },
+    "created": "2019-05-12T05:49:57+01:00",
+    "pickup": {
+      "address": "394 Gatling Place, Aberdeen, Colorado, 8048",
+      "latitude": -10.443194,
+      "longitude": -36.992304
+    },
+    "destination": {
+      "address": "90 Bragg Court, Williams, Palau, 7475",
+      "latitude": -78.235759,
+      "longitude": 156.274564
+    }
+  }
+]
